@@ -17,6 +17,10 @@ Installing react-swipeable-views
 
 ### `npm install react-swipeable-views --save`
 
+Installing react-bootstrap 
+
+### `npm install react-bootstrap --save`
+
 Running the app in the browser
 
 ### `npm start`
